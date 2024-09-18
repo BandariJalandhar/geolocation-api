@@ -12,6 +12,7 @@
     align-items: center;
     justify-content: center;
   }
+  
   .content {
     display: flex;
     padding: 10px;

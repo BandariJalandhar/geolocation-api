@@ -17,6 +17,7 @@ function geo() {
   }
 }
 
+
 const getLocation =async (lat,long) =>{
     try{
         let url = `https://api.positionstack.com/v1/reverse?access_key=61decdb3d0d721770038e15bc5d62203&query=${lat},${long}`
